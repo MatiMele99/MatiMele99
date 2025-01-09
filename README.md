@@ -3,9 +3,9 @@
 
 - 🌱 Estoy aprendiendo **HTML, CSS, Javascript, Bootstrap, React**
 
-- 📫 Contacto **matiasmelefarre@gmail.com**
+- 📫 Contacto: **matiasmelefarre@gmail.com**
 
-- ⚡ Fun fact **También soy productor musical y DJ 🎚️🎹**
+- ⚡ Fun fact **Tengo experiencia de 2 años como Project Manager. También soy productor musical y DJ 🎚️🎹**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
