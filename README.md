@@ -7,12 +7,9 @@
 
 - ⚡ Tengo experiencia de 2 años como **Project Manager**, y conocimientos de **producción musical, edición de vídeo y Photoshop**. También soy DJ 🤓🎚️🎹
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matías mele farré" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías mele farré" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="center">Lenguajes y herramientas:</h3>
+
 <div align="left">
 <p><b>Lenguajes:</b></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,5 +35,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+
+
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/matías mele farré" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías mele farré" height="30" width="40" /></a>
+</p>
+
+
 
 ###
