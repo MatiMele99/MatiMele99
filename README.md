@@ -5,7 +5,7 @@
 
 - 📫 Contacto: **matiasmelefarre@gmail.com**
 
-- ⚡ **Tengo experiencia de 2 años como Project Manager, y conocimientos de producción musical, edición de vídeo y Photoshop. También soy DJ 🤓🎚️🎹**
+- ⚡ Tengo experiencia de 2 años como **Project Manager**, y conocimientos de **producción musical, edición de vídeo y Photoshop**. También soy DJ 🤓🎚️🎹
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
